@@ -2,11 +2,13 @@
 <h3 align="center">A passionate Senior Software Engineer from Brazil</h3>
 <br/>
 
-- 🔭 I’m currently working for **Cloudbeds**
+- 🔭 I’m working for **Cloudbeds**
 
-- 🌱 I’m currently learning **NestJS** and **Astro**
+- 🌱 I’m learning **NestJS**, **Astro**, and **Acustic Guitar**
 
-- 💬 I like to talk about **React, Astro, Meditation and Astral Travel**
+- 📚 I'm reading **My Big TOE** from Tom Campbell
+
+- 💬 I like to talk about **Computer Science, Literature, Meditation and Astral Travel**
 
 <br/>
 <h3 align="center">Connect with me:</h3>
