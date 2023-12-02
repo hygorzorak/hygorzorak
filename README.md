@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Senior Software Engineer from Brazil</h3>
 <br/>
 
-- 🔭 I’m working for **Cloudbeds**
+- 🔭 I’m working at **Cloudbeds**
 
 - 🌱 I’m learning **NestJS**, **Astro**, and **Acustic Guitar**
 
