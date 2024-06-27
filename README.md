@@ -4,11 +4,9 @@
 
 - 🔭 I’m working at **Cloudbeds**
 
-- 🌱 I’m learning **NestJS**, **Astro**, and **Acustic Guitar**
+- 📚 I'm reading **Sapiens: A Brief History of Humankind** by Yuval Noah Harari
 
-- 📚 I'm reading **My Big TOE** from Tom Campbell
-
-- 💬 I like to talk about **Computer Science, Literature, Meditation and Astral Travel**
+- 💬 I like to talk about **Art, Science, Literature, Meditation and Astral Projection**
 
 <br/>
 <h3 align="center">Connect with me:</h3>
