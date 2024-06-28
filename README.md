@@ -8,6 +8,8 @@
 
 - 💬 I like to talk about **Art, Science, Literature, Meditation and Astral Projection**
 
+- 💻 I'm also creating a library called **ReactDateFns**. [You can check it here](https://github.com/hygorzorak/react-dafe-fns).
+
 <br/>
 <h3 align="center">Connect with me:</h3>
 <br/>
