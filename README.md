@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Senior Software Engineer from Brazil</h3>
 <br/>
 
-- 🔭 I’m working at **Cloudbeds**
-
-- 📚 I'm reading **Sapiens: A Brief History of Humankind** by Yuval Noah Harari
-
 - 💬 I like to talk about **Art, Science, AI, Literature, and Meditation**
 
 <br/>
