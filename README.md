@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hygor Zorak</h1>
 <h3 align="center">A passionate Senior Software Engineer from Brazil</h3>
 <br/>
-
-- 💬 I like to talk about **Art, Science, AI, Literature, and Meditation**
-
-<br/>
 <h3 align="center">Connect with me:</h3>
 <br/>
 <p align="center">
